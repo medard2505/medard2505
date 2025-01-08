@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Medard Edmund Mswahili
-- 👀 I’m interested in Machine learning and Data Mining
-- 🌱 I’m currently researching on @https://sites.google.com/view/medardemswahili/ 
-- 💞️ I’m looking to collaborate on topics related to pharmaceutical using artificial intelligence, machine learning, and data mining & analysis (pharmaceutical data analysis: drug discovery & development) and natural language processing.
+- 👋 Hi, I’m Medard Edmund Mswahili.
+- 👀 I’m interested in Machine learning and NLP.
+- 🌱 I’m currently researching on Deep learning and NLP for Chemistry.
+- 💞️ I’m looking to collaborate on topics related to cheminformatics using artificial intelligence & machine learning, and deep learning & NLP for chemistry (pharmaceutical data analysis).
 - 📫 How to reach me "https://sites.google.com/view/medardemswahili/"
 
 <!---
